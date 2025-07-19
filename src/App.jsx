@@ -22,8 +22,6 @@ function App()  {
   <Route path="/roadmaps" element={<Roadmaps />} />
   <Route path="/about" element={<About />} />
   <Route path="/viewcourse" element={<Viewcourse/>} />
-  {/* <Route exact path="/" component={MyComponent} />
-  <Route path="/Sign In" component={OtherPage} /> */}
 </Routes>
 
 
