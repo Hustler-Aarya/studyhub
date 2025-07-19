@@ -1,0 +1,44 @@
+#textrd{
+  text-align: center;
+  background-image: url(C:\Users\diksh\OneDrive\Documents\GitHub\elearn\my-app\src\images\roadmap1.jpg) ;
+  padding-bottom: 150px;
+  background-repeat: no-repeat;
+  background-size: cover; 
+
+}
+#h1_lay{
+  margin-top: 70px;
+  background-repeat: none;
+  color: rgb(8, 4, 4);
+  
+}
+#p_lay{
+  color: rgb(8, 4, 4);
+  
+}
+.roadmap {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  text-align: center;
+  background-color: rgb(39, 79, 75);
+  
+}
+
+
+#textrd h1 {
+  text-align: center;
+  padding-top: 150px;
+  margin-top: 0%;
+  
+  
+}
+.roadmap a{
+  text-decoration: none;
+
+}
+
+
+ 

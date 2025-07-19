@@ -1,0 +1,61 @@
+[
+    {
+        "title": "HTML",
+        "icon": "bi bi-braces",
+        "childrens":[
+            {
+                "title": "Introduction",
+                "icon": "bi bi-braces"
+                
+            }
+           
+        ]
+    
+    },
+    {
+        "title": "CSS",
+        "icon": "bi bi-braces",
+        "childrens": [
+            {
+                "title": "Introduction",
+                "icon": "bi bi-braces",
+                "path": "/ViewCourse"
+       
+            }
+        ] 
+    },
+    {
+            "title": "JavaScript",
+            "icon": "bi bi-braces",
+            "childrens": [
+                {
+                    "title": "Introduction",
+                    "icon": "bi bi-braces",
+                    "path": "/ViewCourse"
+                    }
+            ]
+            
+    },
+    {
+        "title": "JS Frameworks",
+        "icon": "bi bi-braces",
+        "childrens":[
+            {
+                "title": "React.js",
+                "icon": "bi bi-braces",
+                "path": "/ViewCourse"
+                },
+                {
+                    "title": "Node.js",
+                    "icon": "bi bi-braces",
+                    "path": "/ViewCourse"
+                    }
+        ]
+       
+        },
+        {
+            "title": "Other"
+            
+        }
+
+]

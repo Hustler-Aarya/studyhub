@@ -1,0 +1,18 @@
+
+.viewcourse{
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+    height: 100vh;
+   margin-top: 0px;
+   padding: 0px;
+ 
+    
+}
+.view_course1{
+    width: 300px;
+    height: 100vh;
+    background-color: rgb(21, 21, 21);
+   
+   
+}

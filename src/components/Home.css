@@ -1,0 +1,91 @@
+.home_styl{
+   overflow-x: auto;
+}
+.home_imgsyl{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/005/263/702/original/learning-and-technology-concept-blue-glow-mobile-with-a-graduation-cap-on-dark-background-e-learning-and-education-online-free-vector.jpg);
+    padding-bottom: 230px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-top: 0px;
+    padding-top: 50px;
+ 
+}
+.hm_stl{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 250px;
+    font-size:45px;
+}
+.p_pstyl{
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 60px;
+    padding-bottom: 150px;
+}
+.hm_niche{
+    background-color: rgb(176, 184, 189);
+    display: flex;
+    align-items: center;
+    overflow: auto;
+    
+}
+.pp_styl{
+    color: #141313;
+    display: flex;
+    margin-left: 60px;
+    padding-bottom: 10px;
+}
+.ig_hm{
+    flex: 1;
+    display: flex;
+    height: 450px;
+    width: 450px;
+    justify-content: flex-end;
+    padding: 80px;
+    
+  
+}
+@media screen and (max-width:769px){
+    .home_styl{
+        overflow-x: auto;
+     }
+     .home_imgsyl{
+         background-image: url(https://static.vecteezy.com/system/resources/previews/005/263/702/original/learning-and-technology-concept-blue-glow-mobile-with-a-graduation-cap-on-dark-background-e-learning-and-education-online-free-vector.jpg);
+         padding-bottom: 30px;
+       background-repeat: no-repeat;
+         padding-top: 40px;
+      
+     }
+     .hm_stl{
+         display: flex;
+         margin-left: 60px;
+         margin-top: 200px;
+         font-size:16px;
+     }
+     .p_pstyl{
+         font-size: 10px;
+         color: aliceblue;
+         margin-left: 60px;
+         padding-bottom: 150px;
+     }
+     .hm_niche{
+        background-color: rgb(176, 184, 189);
+        overflow: auto;
+        
+    }
+    .pp_styl{
+        color: black;
+        margin-left: 40px;
+        padding-bottom: 20px;
+        font-size: 10px;
+    }
+    .ig_hm{
+        display: flex;
+        height: 300px;
+        width: 300px;
+
+        
+      
+    }
+
+}

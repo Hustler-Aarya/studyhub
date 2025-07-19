@@ -1,0 +1,40 @@
+.side_title{
+    padding: 7%;
+    
+    font-size: 20px;
+}
+.side_item{
+    font-size: 1em;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    border-bottom: 0.2px solid #393939;
+}
+.side_item:hover{
+    background-color: rgb(96, 96, 96);
+}
+.side_title{
+    display: flex;
+    justify-content: space-between;
+}
+.spn i {
+    display: inline-block;
+    width: 1.5em;
+
+}
+.side_title .toggle-btn{
+    cursor: pointer;
+    transition: transform .3s;
+}
+.side_item.open .side_title .toggle-btn{
+    transform: rotate(180deg);
+}
+.side_content{
+    padding-top: .10em;
+    height: 0;
+    overflow: hidden;
+
+}
+.side_item.open .side_content{
+    height: auto;
+}

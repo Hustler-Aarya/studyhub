@@ -1,0 +1,35 @@
+.contan{
+    display: flex;
+    align-items: center;
+    overflow: auto;
+    margin-top: 160px;
+   overflow: auto;
+    
+}
+.abut{
+    flex: 1;
+    padding: 10px;
+    
+}
+.h2_style{
+    color: black;
+    margin-left: 50px;
+    font-size: 40px;
+    color: rgb(41, 95, 77);
+}
+.imgi_stl{
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    height: 400px; 
+    width: 400px;
+    margin-bottom: 110px;
+    margin-top: 70px;
+
+}
+.p_styl{
+    font-size: 18px;
+    margin-left: 50px; 
+}
+

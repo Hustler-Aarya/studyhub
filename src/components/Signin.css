@@ -1,0 +1,93 @@
+.form{
+    width: 250px;
+    height: 380px;
+    background: linear-gradient(to top, rgba(0,0,0,0.7)50%,rgba(0,0,0,0.7)50%);
+    position: absolute;
+    top: -5px;
+    left: 970px;
+    border-radius: 10px;
+    padding: 25px;
+
+}
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #781059;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+
+}
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid#781059 ;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+.form imput:focus{
+    outline: #fff;
+    font-family: Arial;
+}
+.btnn{
+    width: 240px;
+    height: 40px;
+    background: #781059;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #a03838;
+    transition: 0.4s ease;
+}
+.btnn:hover{
+    background: #fff;
+    color: #781059;
+}
+.btnn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+
+}
+.form .link{
+    font-family: Arial;
+    font-size: 17px;
+    padding: 20px;
+    text-align: center;
+}
+.form .link a{
+    text-decoration: none;
+    color: #781059;
+}
+.lnw{
+    padding-top: 1px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.icns a{
+    text-decoration: none;
+    color: #fff;
+}
+.icns ion-icon{
+    color: #fff;
+    font-size: 30px;
+    padding-left: 14px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+
+}
+.icns ion-icon:hover{
+    color: #781059;
+}
