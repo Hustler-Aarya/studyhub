@@ -1,7 +1,7 @@
 import React,{useCallback} from 'react'
 import Sidebar from '../components/Sidebar'
 import Video from '../Videocalling/Video'
-import './Viewcourse.css'
+import './ViewCourse.css'
 import { useNavigate } from 'react-router-dom';
 const Viewcourse = () => {
 
