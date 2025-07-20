@@ -1,5 +1,5 @@
 import React from 'react'
-import './home.css'
+import './Home.css'
 import Vg from "../images/p6.png";
 import Fr from "../components/Footer"
 
@@ -10,7 +10,7 @@ const Home = () => {
    <div className='home_styl'>
     <div className='home_imgsyl'>
       <h1 className='hm_stl'>
-       Welcome in elearn!
+       Welcome in Learning academy
       </h1>
       <p className='p_pstyl'> Build your carrier with us and grab the opportunity.</p>
 
