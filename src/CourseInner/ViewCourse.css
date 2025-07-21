@@ -24,15 +24,15 @@ button{
     border-radius: 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 200;
-    font-size: larger;
-    transition: 0.2s ease-in;
+    font-size: small;
+
     cursor: pointer;
-    box-shadow: 5px 2px 0px 0px black;
+    
     border: none;
 }
 button:hover{
     color: black;
     background-color: white;
-    transform: scale(1.1);
+  
 }
 
